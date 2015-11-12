@@ -1,0 +1,15 @@
+Index: app/src/main/res/layout/activity_main.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_main.xml	(revision )
++++ app/src/main/res/layout/activity_main.xml	(revision )
+@@ -17,4 +17,7 @@
+ 
+     <TextView android:text="Hello World!" android:layout_width="wrap_content"
+         android:layout_height="wrap_content" />
++
++    <TextView android:text="Hello World!" android:layout_width="wrap_content"
++        android:layout_height="wrap_content" />
+ </LinearLayout>
